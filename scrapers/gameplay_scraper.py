@@ -3,8 +3,13 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
+from logger import Logger
+
+# Initialize logger
+logger = Logger().get_logger()
 
 def get_gameplay_link(driver, game_name):
+    logger.info(f'Searching gameplay link for game: {game_name}')
     # Open YouTube
     driver.get("https://www.youtube.com")
     time.sleep(5)
@@ -18,6 +23,7 @@ def get_gameplay_link(driver, game_name):
     search_bar.click()
     search_bar.send_keys(search_query)
     search_bar.send_keys(Keys.RETURN)
+    logger.info(f'Entered search query: {search_query}')
 
     # Give the search results some time to load
     time.sleep(3)
@@ -28,12 +34,14 @@ def get_gameplay_link(driver, game_name):
     time.sleep(3)
     gameplay_link = driver.current_url
 
+    logger.info(f'Found gameplay link: {gameplay_link} for game: {game_name}')
     return gameplay_link
 
 def get_gameplay_links(game_info_list):
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_experimental_option("detach", True)
 
+    logger.info('Initializing Chrome driver for gameplay links.')
     driver = webdriver.Chrome(options=chrome_options)
 
     for game_info in game_info_list:
@@ -42,5 +50,6 @@ def get_gameplay_links(game_info_list):
         game_info["gameplay_link"] = gameplay_link
 
     driver.quit()
+    logger.info('Closed Chrome driver after fetching gameplay links.')
 
     return game_info_list

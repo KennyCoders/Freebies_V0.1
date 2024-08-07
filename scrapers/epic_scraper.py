@@ -5,8 +5,10 @@ import dateutil.parser
 import time
 from scrapers.gameplay_scraper import get_gameplay_links
 from database.database_utils import insert_game
+from logger import Logger
 
-
+# Initialize logger
+logger = Logger().get_logger()
 
 def get_game_info(game_element, driver):
     game_name = game_element.find_element(By.CSS_SELECTOR, "img[data-testid='picture-image']").get_attribute("alt")
@@ -23,7 +25,6 @@ def get_game_info(game_element, driver):
     time = dateutil.parser.parse(time_value).strftime("%I:%M %p")
     availability = f"{availability_text} until {date} at {time}"
 
-
     return {
         "name": game_name,
         "link": game_link,
@@ -31,12 +32,12 @@ def get_game_info(game_element, driver):
         "availability": availability,
     }
 
-
 def scrape_epic_games():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_experimental_option("detach", True)
 
     driver = webdriver.Chrome(options=chrome_options)
+    logger.info('Navigating to Epic Games Store')
     driver.get("https://store.epicgames.com/en-US/free-games")
     time.sleep(10)
 
@@ -46,6 +47,7 @@ def scrape_epic_games():
     game_info_list = []
     for game_element in game_elements:
         game_info = get_game_info(game_element, driver)
+        logger.info(f'Scraped game info: {game_info}')
         game_info_list.append(game_info)
 
     game_info_list = [get_game_info(game_element, driver) for game_element in game_elements]
@@ -55,6 +57,7 @@ def scrape_epic_games():
     # Insert games into the database
     for game_info in game_info_list_with_links:
         insert_game('epic', game_info)
+        logger.info(f'Inserted game into database: {game_info}')
 
     driver.quit()
 

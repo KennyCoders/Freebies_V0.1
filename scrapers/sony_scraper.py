@@ -2,12 +2,18 @@ import requests
 from bs4 import BeautifulSoup
 from database.database_utils import insert_game
 from scrapers.gameplay_scraper import get_gameplay_links
+from logger import Logger
+
+# Initialize logger
+logger = Logger().get_logger()
 
 def scrape_sony_games():
     url = "https://store.playstation.com/en-us/view/25d9b52a-7dcf-11ea-acb6-06293b18fe04/bc428b4a-f1b7-11ea-aadc-062143ad1e8d"
+    logger.info(f'Starting to scrape Sony games from URL: {url}')
     response = requests.get(url)
 
     if response.status_code == 200:
+        logger.info('Successfully fetched the Sony store page.')
         html_content = response.content
         soup = BeautifulSoup(html_content, 'html.parser')
         games_list = soup.find('ul', {'class': 'psw-strand-scroller'})
@@ -22,15 +28,6 @@ def scrape_sony_games():
                 'link': game_link,
                 'image_src': game_image_link
             })
+            logger.info(f'Scraped game: {game_name}')
 
-        game_info_list_with_links = get_gameplay_links(game_info_list)
-
-        for game_info in game_info_list_with_links:
-            insert_game('sony', game_info)
-
-        return game_info_list_with_links
-
-    else:
-        print(f"Failed to fetch the website. Response code: {response.status_code}")
-        return []
-
+        game_info_list_with_links = get_gameplay_links
