@@ -17,13 +17,13 @@ def test_scrapers():
     # sony_games = scrape_sony_games()
     # logger.info(f'Finished scraping Sony games: {sony_games}')
     #
-    logger.info('Starting to scrape Amazon games.')
-    amazon_games = scrape_amazon_games()
-    logger.info(f'Finished scraping Amazon games: {amazon_games}')
-    #
-    # logger.info('Starting to scrape Epic games.')
-    # epic_games = scrape_epic_games()
-    # logger.info(f'Finished scraping Epic games: {epic_games}')
+    # logger.info('Starting to scrape Amazon games.')
+    # amazon_games = scrape_amazon_games()
+    # logger.info(f'Finished scraping Amazon games: {amazon_games}')
+
+    logger.info('Starting to scrape Epic games.')
+    epic_games = scrape_epic_games()
+    logger.info(f'Finished scraping Epic games: {epic_games}')
 
 if __name__ == '__main__':
     logger.info('Starting the scraping process.')

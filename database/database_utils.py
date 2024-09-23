@@ -26,7 +26,7 @@ def create_tables():
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         name TEXT UNIQUE,
         link TEXT,
-        image_url TEXT,
+        image_src TEXT,
         availability TEXT,
         gameplay_link TEXT,
         scraped_date TEXT
@@ -63,8 +63,8 @@ def insert_game(platform, game_info):
             print(f"Game '{game_info['name']}' already exists in the amazon_games table.")
     elif platform == 'epic':
         try:
-            c.execute("INSERT INTO epic_games (name, link, image_url, availability, gameplay_link, scraped_date) VALUES (?, ?, ?, ?, ?, ?)",
-                      (game_info['name'], game_info['link'], game_info['image_url'], game_info['availability'], game_info['gameplay_link'], current_date))
+            c.execute("INSERT INTO epic_games (name, link, image_src, availability, gameplay_link, scraped_date) VALUES (?, ?, ?, ?, ?, ?)",
+                      (game_info['name'], game_info['link'], game_info['image_src'], game_info['availability'], game_info['gameplay_link'], current_date))
         except sqlite3.IntegrityError:
             print(f"Game '{game_info['name']}' already exists in the epic_games table.")
     elif platform == 'sony':

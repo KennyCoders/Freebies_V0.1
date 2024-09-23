@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 import time
@@ -27,6 +28,7 @@ def scrape_amazon_games():
         logger.info('Navigated to Amazon Gaming Home page.')
         time.sleep(5)
 
+
         try:
             free_games_button = driver.find_element(By.XPATH,
                                                     '/html/body/div[1]/div/div/main/div/div/div/div[3]/div/div[1]/div/div[2]/button/div/div/p')
@@ -48,9 +50,14 @@ def scrape_amazon_games():
         counter = 0
         for game_card in game_cards:
             try:
+                actions = ActionChains(driver)
+                actions.move_to_element(game_card).perform()
+                actions.scroll_by_amount(0, 500).perform()
+
+
                 game_name = game_card.find_element(By.XPATH, './/a').get_attribute('aria-label')
                 game_link = game_card.find_element(By.XPATH, './/a').get_attribute('href')
-                time.sleep(3)
+                time.sleep(5)
                 image_src = game_card.find_element(By.CSS_SELECTOR, 'img.tw-image').get_attribute('src')
                 print(f'Scraped game: {game_name}')
                 logger.info(f'Scraped game: {game_name}')
