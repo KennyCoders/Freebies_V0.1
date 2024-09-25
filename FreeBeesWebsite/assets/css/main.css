@@ -2617,8 +2617,9 @@ input, select, textarea {
 		}
 
 /* Add these styles to your existing main.css */
-/* Add these styles to your existing main.css */
 .tiles {
+	position: relative;
+
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -2629,16 +2630,22 @@ input, select, textarea {
     flex: 0 0 calc(40%); /* Change this to adjust the size of the tiles */
     margin: 1em;
     position: relative;
-    overflow: hidden;
+    overflow: visible;
     border-radius: 8px;
     cursor: pointer;
     aspect-ratio: 16 / 9; /* Maintain aspect ratio */
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for transform and box-shadow */
+}
+
+.tiles article:hover {
+    transform: scale(1.05); /* Slightly scale up on hover */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Increase shadow for depth effect */
 }
 
 .tiles article .image {
-    height: 75%; /* Set height for image container */
+    height: 100%; /* Set height for image container */
     width: 100%; /* Full width */
     overflow: hidden; /* Hide overflow */
     position: relative; /* Position relative for absolute positioning of img */
@@ -2690,6 +2697,45 @@ input, select, textarea {
 .tiles article.playing .video-container {
     opacity: 1; /* Fade in when playing */
 }
+
+/* Tiles Bubble */
+
+.tiles article .bubble {
+    display: none;
+    position: absolute;
+    top: -40px; /* Adjust this value to position the bubble above the tile */
+    left: 50%;
+    transform: translateX(-50%) translateY(-10px);
+    background-color: #ffcc00;
+    color: #000;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    z-index: 3;
+}
+
+.tiles article .bubble:hover {
+    background-color: #ffd700;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.tiles article .bubble-link {
+    color: #000;
+	font-size: 150x;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.tiles article .bubble-link:hover {
+    text-decoration: underline;
+}
+
+/* Ensure smooth transition when adjusting margins */
+.tiles article {
+    transition: margin 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease; /* Add margin transition */
+}
+
 
 
 /* Header */

@@ -57,6 +57,27 @@
             "platform": "epic_games"
         },
         {
+            "title": "Harry Potter: Quidditch Champions",
+            "link": "https://store.playstation.com/en-us/games/harry-potter-quidditch-champions/",
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/harry-potter-quidditch-champions-screenshot-01-en-23may24",
+            "trailer": "https://www.youtube.com/watch?v=GkfF_eFMpgQ",
+            "platform": "sony_games"
+        },
+        {
+            "title": "MLB® The Show™ 24",
+            "link": "https://store.playstation.com/en-us/games/mlb-the-show/",
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/mlb-the-show-24-player-Vladimir-Guerrero-Jr-02-en-28aug24",
+            "trailer": "https://www.youtube.com/watch?v=McB8R1SPvrY",
+            "platform": "sony_games"
+        },
+        {
+            "title": "Little Nightmares II",
+            "link": "https://store.playstation.com/en-us/games/little-nightmares-ii/",
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/little-nightmares-2-screen-03-ps4-en-13sep19",
+            "trailer": "https://www.youtube.com/watch?v=gKCvphbCpPE",
+            "platform": "sony_games"
+        },
+        {
             "title": "Train Sim World® 5: Standard Edition",
             "link": "https://www.xbox.com/en-us/games/store/train-sim-world-5-standard-edition/9N9FR8CSZP56",
             "image": "https://store-images.s-microsoft.com/image/apps.40169.13533673129408975.95f4b180-e431-4714-922e-b555f8c6879d.9433236d-417c-4930-9bb0-16ebc5cf6be1",

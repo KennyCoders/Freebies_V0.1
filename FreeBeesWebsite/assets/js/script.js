@@ -40,25 +40,34 @@ document.addEventListener('DOMContentLoaded', () => {
                     groupedGames[platform].forEach(game => {
                         const article = document.createElement('article');
                         article.innerHTML = `
-                            <a href="${game.link}" target="_blank">
-                                <div class="image">
-                                    <img src="${game.image}" alt="${game.title}" />
-                                </div>
-                                <h2>${game.title}</h2>
-                            </a>
+                            <div class="image">
+                                <img src="${game.image}" alt="${game.title}" />
+                            </div>
+                            <h2><a href="${game.link}" class="game-link">${game.title}</a></h2>
                             <div class="video-container"></div>
                         `;
                         article.setAttribute('data-trailer', game.trailer);
+                        article.setAttribute('data-link', game.link);
                         tilesContainer.appendChild(article);
                     });
                 } else {
-                    console.error(`Container not found for ${platform}`);
+                    console.log(`Container not found for ${platform}`);
                 }
             });
 
             // Event listener for game tiles
             document.querySelectorAll('.tiles article').forEach(article => {
                 article.addEventListener('click', function(event) {
+                    // Check if the click was on or within the h2 element or the bubble
+                    if (event.target.closest('h2') || event.target.closest('.bubble')) {
+                        // Prevent the default link behavior
+                        event.preventDefault();
+                        
+                        // Open the game link in a new tab
+                        window.open(this.getAttribute('data-link'), '_blank');
+                        return;
+                    }
+
                     // Prevent the default link behavior
                     event.preventDefault();
 
@@ -87,8 +96,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     const iframe = document.createElement('iframe');
                     iframe.src = embedUrl;
-                    iframe.width = '100%';  // Set width to 100%
-                    iframe.height = '100%';  // Set height to 100%
+                    iframe.width = '100%';
+                    iframe.height = '100%';
                     iframe.frameBorder = '0';
                     iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
                     iframe.allowFullscreen = true;
