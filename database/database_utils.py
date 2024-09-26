@@ -2,7 +2,7 @@ import sqlite3
 import datetime
 import os
 
-db_path = os.path.join('database', 'games.db')
+db_path = r"C:\Users\shahartz\PycharmProjects\Freebees_Versions\FreeGamesWebsiteDatabase-Copy(code)\database\games.db"
 
 
 # Database connection

@@ -3,8 +3,8 @@ import json
 import os
 
 # Paths to the database and JSON files
-db_path = r'C:\Users\shahartz\PycharmProjects\Freebees_Versions\FreeGamesWebsiteDatabase-Copy\database\games.db'
-json_file_path = r'C:\Users\shahartz\PycharmProjects\Freebees_Versions\FreeGamesWebsiteDatabase-Copy\FreeBeesWebsite\games.json'
+db_path = r"C:\Users\shahartz\PycharmProjects\Freebees_Versions\FreeGamesWebsiteDatabase-Copy(code)\database\games.db"
+json_file_path = r'C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json'
 
 # Check if the database exists
 if not os.path.exists(db_path):
@@ -48,4 +48,3 @@ games_data = fetch_all_games()
 write_json(games_data, json_file_path)
 
 # Close the database connection
-conn.close()
