@@ -24343,3 +24343,249 @@ Stacktrace:
 2024-09-26 16:04:30,170 - game_scraper_logger - INFO - Process completed successfully.
 2024-09-26 16:04:30,170 - game_scraper_logger - INFO - Process completed successfully.
 2024-09-26 16:04:30,170 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 11:36:57,447 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 11:36:57,447 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 11:36:57,447 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 11:36:57,447 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 11:36:57,447 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 11:36:57,447 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 11:36:57,455 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 11:36:57,455 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 11:36:57,455 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 11:36:57,455 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 11:36:57,455 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 11:36:57,455 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 11:36:57,461 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 11:36:57,461 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 11:36:57,461 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 11:36:57,461 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 11:36:57,461 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 11:36:57,461 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 11:36:58,000 - game_scraper_logger - INFO - Git status output: M games.json
+2024-09-27 11:36:58,000 - game_scraper_logger - INFO - Git status output: M games.json
+2024-09-27 11:36:58,000 - game_scraper_logger - INFO - Git status output: M games.json
+2024-09-27 11:36:58,000 - game_scraper_logger - INFO - Git status output: M games.json
+2024-09-27 11:36:58,000 - game_scraper_logger - INFO - Git status output: M games.json
+2024-09-27 11:36:58,000 - game_scraper_logger - INFO - Git status output: M games.json
+2024-09-27 11:36:58,004 - game_scraper_logger - INFO - Changes detected, preparing to commit and push.
+2024-09-27 11:36:58,004 - game_scraper_logger - INFO - Changes detected, preparing to commit and push.
+2024-09-27 11:36:58,004 - game_scraper_logger - INFO - Changes detected, preparing to commit and push.
+2024-09-27 11:36:58,004 - game_scraper_logger - INFO - Changes detected, preparing to commit and push.
+2024-09-27 11:36:58,004 - game_scraper_logger - INFO - Changes detected, preparing to commit and push.
+2024-09-27 11:36:58,004 - game_scraper_logger - INFO - Changes detected, preparing to commit and push.
+2024-09-27 11:37:04,558 - game_scraper_logger - INFO - Changes to games.json pushed to GitHub
+2024-09-27 11:37:04,558 - game_scraper_logger - INFO - Changes to games.json pushed to GitHub
+2024-09-27 11:37:04,558 - game_scraper_logger - INFO - Changes to games.json pushed to GitHub
+2024-09-27 11:37:04,558 - game_scraper_logger - INFO - Changes to games.json pushed to GitHub
+2024-09-27 11:37:04,558 - game_scraper_logger - INFO - Changes to games.json pushed to GitHub
+2024-09-27 11:37:04,558 - game_scraper_logger - INFO - Changes to games.json pushed to GitHub
+2024-09-27 11:37:04,583 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 11:37:04,583 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 11:37:04,583 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 11:37:04,583 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 11:37:04,583 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 11:37:04,583 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:13:49,334 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:13:49,334 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:13:49,334 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:13:49,334 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:13:49,334 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:13:49,334 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:13:49,338 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:13:49,338 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:13:49,338 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:13:49,338 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:13:49,338 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:13:49,338 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:14:31,553 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:14:31,553 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:14:31,553 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:14:31,553 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:14:31,553 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:14:31,553 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:14:31,563 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:14:31,563 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:14:31,563 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:14:31,563 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:14:31,563 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:14:31,563 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:14:31,567 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:14:31,567 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:14:31,567 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:14:31,567 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:14:31,567 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:14:31,567 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:14:31,934 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:14:31,934 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:14:31,934 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:14:31,934 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:14:31,934 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:14:31,934 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:14:31,937 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:14:31,937 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:14:31,937 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:14:31,937 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:14:31,937 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:14:31,937 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:14:31,940 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:14:31,940 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:14:31,940 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:14:31,940 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:14:31,940 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:14:31,940 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:16:04,734 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:04,734 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:04,734 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:04,734 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:04,734 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:04,734 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:04,739 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:16:04,739 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:16:04,739 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:16:04,739 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:16:04,739 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:16:04,739 - game_scraper_logger - ERROR - Error during database connection: Cannot operate on a closed database.
+2024-09-27 18:16:34,460 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:34,460 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:34,460 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:34,460 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:34,460 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:34,460 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:16:34,470 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:16:34,470 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:16:34,470 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:16:34,470 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:16:34,470 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:16:34,470 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:16:34,475 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:16:34,475 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:16:34,475 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:16:34,475 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:16:34,475 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:16:34,475 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:16:34,961 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:16:34,961 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:16:34,961 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:16:34,961 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:16:34,961 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:16:34,961 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:16:34,967 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:16:34,967 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:16:34,967 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:16:34,967 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:16:34,967 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:16:34,967 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:16:34,972 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:16:34,972 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:16:34,972 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:16:34,972 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:16:34,972 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:16:34,972 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:18:00,038 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:18:00,038 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:18:00,038 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:18:00,038 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:18:00,038 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:18:00,038 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:18:00,055 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:18:00,055 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:18:00,055 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:18:00,055 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:18:00,055 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:18:00,055 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:18:00,059 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:18:00,059 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:18:00,059 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:18:00,059 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:18:00,059 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:18:00,059 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:18:00,399 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:18:00,399 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:18:00,399 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:18:00,399 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:18:00,399 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:18:00,399 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:18:00,402 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:18:00,402 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:18:00,402 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:18:00,402 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:18:00,402 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:18:00,402 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:18:00,405 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:18:00,405 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:18:00,405 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:18:00,405 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:18:00,405 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:18:00,405 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:42:37,905 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:42:37,905 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:42:37,905 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:42:37,905 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:42:37,905 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:42:37,905 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:42:37,914 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:42:37,914 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:42:37,914 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:42:37,914 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:42:37,914 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:42:37,914 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:42:37,918 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:42:37,918 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:42:37,918 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:42:37,918 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:42:37,918 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:42:37,918 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:42:38,268 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:42:38,268 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:42:38,268 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:42:38,268 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:42:38,268 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:42:38,268 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:42:38,273 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:42:38,273 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:42:38,273 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:42:38,273 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:42:38,273 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:42:38,273 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:42:38,278 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:42:38,278 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:42:38,278 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:42:38,278 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:42:38,278 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:42:38,278 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:43:06,296 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:43:06,296 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:43:06,296 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:43:06,296 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:43:06,296 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:43:06,296 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-09-27 18:43:06,305 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:43:06,305 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:43:06,305 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:43:06,305 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:43:06,305 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:43:06,305 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-09-27 18:43:06,308 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:43:06,308 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:43:06,308 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:43:06,308 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:43:06,308 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:43:06,308 - game_scraper_logger - INFO - Checking for changes to the JSON file.
+2024-09-27 18:43:06,641 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:43:06,641 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:43:06,641 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:43:06,641 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:43:06,641 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:43:06,641 - game_scraper_logger - INFO - Git status output: 
+2024-09-27 18:43:06,644 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:43:06,644 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:43:06,644 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:43:06,644 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:43:06,644 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:43:06,644 - game_scraper_logger - INFO - No changes to games.json to push
+2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.

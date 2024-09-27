@@ -7,7 +7,7 @@ from scrapers.amazon_scraper import scrape_amazon_games
 from scrapers.epic_scraper import scrape_epic_games
 from scrapers.sony_scraper import scrape_sony_games
 from scrapers.xbox_scraper import scrape_xbox_games
-from database.database_to_json import fetch_all_games, write_json
+from database.database_to_json import fetch_all_games_for_current_week, write_json
 from logger import Logger
 
 # Initialize logger
@@ -33,7 +33,7 @@ def convert_db_to_json():
 
     try:
         conn = sqlite3.connect(DB_PATH)
-        games_data = fetch_all_games()
+        games_data = fetch_all_games_for_current_week()
         print(f"Fetched {len(games_data)} games from the database.")  # Added print statement
     except sqlite3.Error as e:
         logger.error(f"Error during database connection: {e}")
