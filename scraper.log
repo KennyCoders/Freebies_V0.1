@@ -24589,3 +24589,153 @@ Stacktrace:
 2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.
 2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.
 2024-09-27 18:43:06,648 - game_scraper_logger - INFO - Process completed successfully.
+2024-09-27 20:01:04,154 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-09-27 20:01:04,154 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-09-27 20:01:04,154 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-09-27 20:01:04,154 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-09-27 20:01:04,154 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-09-27 20:01:04,154 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-09-27 20:01:04,160 - game_scraper_logger - INFO - Starting to scrape Xbox games.
+2024-09-27 20:01:04,160 - game_scraper_logger - INFO - Starting to scrape Xbox games.
+2024-09-27 20:01:04,160 - game_scraper_logger - INFO - Starting to scrape Xbox games.
+2024-09-27 20:01:04,160 - game_scraper_logger - INFO - Starting to scrape Xbox games.
+2024-09-27 20:01:04,160 - game_scraper_logger - INFO - Starting to scrape Xbox games.
+2024-09-27 20:01:04,160 - game_scraper_logger - INFO - Starting to scrape Xbox games.
+2024-09-27 20:01:07,107 - game_scraper_logger - INFO - Initializing Chrome driver for Xbox games scraping.
+2024-09-27 20:01:07,107 - game_scraper_logger - INFO - Initializing Chrome driver for Xbox games scraping.
+2024-09-27 20:01:07,107 - game_scraper_logger - INFO - Initializing Chrome driver for Xbox games scraping.
+2024-09-27 20:01:07,107 - game_scraper_logger - INFO - Initializing Chrome driver for Xbox games scraping.
+2024-09-27 20:01:07,107 - game_scraper_logger - INFO - Initializing Chrome driver for Xbox games scraping.
+2024-09-27 20:01:07,107 - game_scraper_logger - INFO - Initializing Chrome driver for Xbox games scraping.
+2024-09-27 20:01:21,976 - game_scraper_logger - INFO - Navigated to Xbox Game Pass page.
+2024-09-27 20:01:21,976 - game_scraper_logger - INFO - Navigated to Xbox Game Pass page.
+2024-09-27 20:01:21,976 - game_scraper_logger - INFO - Navigated to Xbox Game Pass page.
+2024-09-27 20:01:21,976 - game_scraper_logger - INFO - Navigated to Xbox Game Pass page.
+2024-09-27 20:01:21,976 - game_scraper_logger - INFO - Navigated to Xbox Game Pass page.
+2024-09-27 20:01:21,976 - game_scraper_logger - INFO - Navigated to Xbox Game Pass page.
+2024-09-27 20:01:22,003 - game_scraper_logger - INFO - Found 6 games on Xbox page.
+2024-09-27 20:01:22,003 - game_scraper_logger - INFO - Found 6 games on Xbox page.
+2024-09-27 20:01:22,003 - game_scraper_logger - INFO - Found 6 games on Xbox page.
+2024-09-27 20:01:22,003 - game_scraper_logger - INFO - Found 6 games on Xbox page.
+2024-09-27 20:01:22,003 - game_scraper_logger - INFO - Found 6 games on Xbox page.
+2024-09-27 20:01:22,003 - game_scraper_logger - INFO - Found 6 games on Xbox page.
+2024-09-27 20:01:22,071 - game_scraper_logger - INFO - Scraped game: TRIALS of MANA
+2024-09-27 20:01:22,071 - game_scraper_logger - INFO - Scraped game: TRIALS of MANA
+2024-09-27 20:01:22,071 - game_scraper_logger - INFO - Scraped game: TRIALS of MANA
+2024-09-27 20:01:22,071 - game_scraper_logger - INFO - Scraped game: TRIALS of MANA
+2024-09-27 20:01:22,071 - game_scraper_logger - INFO - Scraped game: TRIALS of MANA
+2024-09-27 20:01:22,071 - game_scraper_logger - INFO - Scraped game: TRIALS of MANA
+2024-09-27 20:01:22,116 - game_scraper_logger - INFO - Scraped game: All You Need is Help
+2024-09-27 20:01:22,116 - game_scraper_logger - INFO - Scraped game: All You Need is Help
+2024-09-27 20:01:22,116 - game_scraper_logger - INFO - Scraped game: All You Need is Help
+2024-09-27 20:01:22,116 - game_scraper_logger - INFO - Scraped game: All You Need is Help
+2024-09-27 20:01:22,116 - game_scraper_logger - INFO - Scraped game: All You Need is Help
+2024-09-27 20:01:22,116 - game_scraper_logger - INFO - Scraped game: All You Need is Help
+2024-09-27 20:01:22,156 - game_scraper_logger - INFO - Scraped game: Wargroove 2
+2024-09-27 20:01:22,156 - game_scraper_logger - INFO - Scraped game: Wargroove 2
+2024-09-27 20:01:22,156 - game_scraper_logger - INFO - Scraped game: Wargroove 2
+2024-09-27 20:01:22,156 - game_scraper_logger - INFO - Scraped game: Wargroove 2
+2024-09-27 20:01:22,156 - game_scraper_logger - INFO - Scraped game: Wargroove 2
+2024-09-27 20:01:22,156 - game_scraper_logger - INFO - Scraped game: Wargroove 2
+2024-09-27 20:01:22,196 - game_scraper_logger - INFO - Scraped game: Overwatch® 2
+2024-09-27 20:01:22,196 - game_scraper_logger - INFO - Scraped game: Overwatch® 2
+2024-09-27 20:01:22,196 - game_scraper_logger - INFO - Scraped game: Overwatch® 2
+2024-09-27 20:01:22,196 - game_scraper_logger - INFO - Scraped game: Overwatch® 2
+2024-09-27 20:01:22,196 - game_scraper_logger - INFO - Scraped game: Overwatch® 2
+2024-09-27 20:01:22,196 - game_scraper_logger - INFO - Scraped game: Overwatch® 2
+2024-09-27 20:01:22,256 - game_scraper_logger - INFO - Scraped game: Train Sim World® 5: Standard Edition
+2024-09-27 20:01:22,256 - game_scraper_logger - INFO - Scraped game: Train Sim World® 5: Standard Edition
+2024-09-27 20:01:22,256 - game_scraper_logger - INFO - Scraped game: Train Sim World® 5: Standard Edition
+2024-09-27 20:01:22,256 - game_scraper_logger - INFO - Scraped game: Train Sim World® 5: Standard Edition
+2024-09-27 20:01:22,256 - game_scraper_logger - INFO - Scraped game: Train Sim World® 5: Standard Edition
+2024-09-27 20:01:22,256 - game_scraper_logger - INFO - Scraped game: Train Sim World® 5: Standard Edition
+2024-09-27 20:01:22,306 - game_scraper_logger - INFO - Scraped game: Riders Republic™
+2024-09-27 20:01:22,306 - game_scraper_logger - INFO - Scraped game: Riders Republic™
+2024-09-27 20:01:22,306 - game_scraper_logger - INFO - Scraped game: Riders Republic™
+2024-09-27 20:01:22,306 - game_scraper_logger - INFO - Scraped game: Riders Republic™
+2024-09-27 20:01:22,306 - game_scraper_logger - INFO - Scraped game: Riders Republic™
+2024-09-27 20:01:22,306 - game_scraper_logger - INFO - Scraped game: Riders Republic™
+2024-09-27 20:01:22,310 - game_scraper_logger - INFO - Initializing Chrome driver for gameplay links.
+2024-09-27 20:01:22,310 - game_scraper_logger - INFO - Initializing Chrome driver for gameplay links.
+2024-09-27 20:01:22,310 - game_scraper_logger - INFO - Initializing Chrome driver for gameplay links.
+2024-09-27 20:01:22,310 - game_scraper_logger - INFO - Initializing Chrome driver for gameplay links.
+2024-09-27 20:01:22,310 - game_scraper_logger - INFO - Initializing Chrome driver for gameplay links.
+2024-09-27 20:01:22,310 - game_scraper_logger - INFO - Initializing Chrome driver for gameplay links.
+2024-09-27 20:01:24,914 - game_scraper_logger - INFO - Searching gameplay link for game: TRIALS of MANA
+2024-09-27 20:01:24,914 - game_scraper_logger - INFO - Searching gameplay link for game: TRIALS of MANA
+2024-09-27 20:01:24,914 - game_scraper_logger - INFO - Searching gameplay link for game: TRIALS of MANA
+2024-09-27 20:01:24,914 - game_scraper_logger - INFO - Searching gameplay link for game: TRIALS of MANA
+2024-09-27 20:01:24,914 - game_scraper_logger - INFO - Searching gameplay link for game: TRIALS of MANA
+2024-09-27 20:01:24,914 - game_scraper_logger - INFO - Searching gameplay link for game: TRIALS of MANA
+2024-09-27 20:01:37,313 - game_scraper_logger - INFO - Entered search query: TRIALS of MANA gameplay
+2024-09-27 20:01:37,313 - game_scraper_logger - INFO - Entered search query: TRIALS of MANA gameplay
+2024-09-27 20:01:37,313 - game_scraper_logger - INFO - Entered search query: TRIALS of MANA gameplay
+2024-09-27 20:01:37,313 - game_scraper_logger - INFO - Entered search query: TRIALS of MANA gameplay
+2024-09-27 20:01:37,313 - game_scraper_logger - INFO - Entered search query: TRIALS of MANA gameplay
+2024-09-27 20:01:37,313 - game_scraper_logger - INFO - Entered search query: TRIALS of MANA gameplay
+2024-09-27 20:01:43,576 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=XZDbtlOQH44 for game: TRIALS of MANA
+2024-09-27 20:01:43,576 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=XZDbtlOQH44 for game: TRIALS of MANA
+2024-09-27 20:01:43,576 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=XZDbtlOQH44 for game: TRIALS of MANA
+2024-09-27 20:01:43,576 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=XZDbtlOQH44 for game: TRIALS of MANA
+2024-09-27 20:01:43,576 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=XZDbtlOQH44 for game: TRIALS of MANA
+2024-09-27 20:01:43,576 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=XZDbtlOQH44 for game: TRIALS of MANA
+2024-09-27 20:01:43,585 - game_scraper_logger - INFO - Searching gameplay link for game: All You Need is Help
+2024-09-27 20:01:43,585 - game_scraper_logger - INFO - Searching gameplay link for game: All You Need is Help
+2024-09-27 20:01:43,585 - game_scraper_logger - INFO - Searching gameplay link for game: All You Need is Help
+2024-09-27 20:01:43,585 - game_scraper_logger - INFO - Searching gameplay link for game: All You Need is Help
+2024-09-27 20:01:43,585 - game_scraper_logger - INFO - Searching gameplay link for game: All You Need is Help
+2024-09-27 20:01:43,585 - game_scraper_logger - INFO - Searching gameplay link for game: All You Need is Help
+2024-09-27 20:01:48,536 - game_scraper_logger - INFO - Entered search query: All You Need is Help gameplay
+2024-09-27 20:01:48,536 - game_scraper_logger - INFO - Entered search query: All You Need is Help gameplay
+2024-09-27 20:01:48,536 - game_scraper_logger - INFO - Entered search query: All You Need is Help gameplay
+2024-09-27 20:01:48,536 - game_scraper_logger - INFO - Entered search query: All You Need is Help gameplay
+2024-09-27 20:01:48,536 - game_scraper_logger - INFO - Entered search query: All You Need is Help gameplay
+2024-09-27 20:01:48,536 - game_scraper_logger - INFO - Entered search query: All You Need is Help gameplay
+2024-09-27 20:01:54,784 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=mTSag3bMgCI for game: All You Need is Help
+2024-09-27 20:01:54,784 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=mTSag3bMgCI for game: All You Need is Help
+2024-09-27 20:01:54,784 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=mTSag3bMgCI for game: All You Need is Help
+2024-09-27 20:01:54,784 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=mTSag3bMgCI for game: All You Need is Help
+2024-09-27 20:01:54,784 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=mTSag3bMgCI for game: All You Need is Help
+2024-09-27 20:01:54,784 - game_scraper_logger - INFO - Found gameplay link: https://www.youtube.com/watch?v=mTSag3bMgCI for game: All You Need is Help
+2024-09-27 20:01:54,789 - game_scraper_logger - INFO - Searching gameplay link for game: Wargroove 2
+2024-09-27 20:01:54,789 - game_scraper_logger - INFO - Searching gameplay link for game: Wargroove 2
+2024-09-27 20:01:54,789 - game_scraper_logger - INFO - Searching gameplay link for game: Wargroove 2
+2024-09-27 20:01:54,789 - game_scraper_logger - INFO - Searching gameplay link for game: Wargroove 2
+2024-09-27 20:01:54,789 - game_scraper_logger - INFO - Searching gameplay link for game: Wargroove 2
+2024-09-27 20:01:54,789 - game_scraper_logger - INFO - Searching gameplay link for game: Wargroove 2
+2024-09-27 20:02:20,205 - game_scraper_logger - INFO - Closed Chrome driver after fetching gameplay links.
+2024-09-27 20:02:20,205 - game_scraper_logger - INFO - Closed Chrome driver after fetching gameplay links.
+2024-09-27 20:02:20,205 - game_scraper_logger - INFO - Closed Chrome driver after fetching gameplay links.
+2024-09-27 20:02:20,205 - game_scraper_logger - INFO - Closed Chrome driver after fetching gameplay links.
+2024-09-27 20:02:20,205 - game_scraper_logger - INFO - Closed Chrome driver after fetching gameplay links.
+2024-09-27 20:02:20,205 - game_scraper_logger - INFO - Closed Chrome driver after fetching gameplay links.
+2024-09-27 20:02:40,705 - game_scraper_logger - INFO - Closed Chrome driver after scraping Xbox games.
+2024-09-27 20:02:40,705 - game_scraper_logger - INFO - Closed Chrome driver after scraping Xbox games.
+2024-09-27 20:02:40,705 - game_scraper_logger - INFO - Closed Chrome driver after scraping Xbox games.
+2024-09-27 20:02:40,705 - game_scraper_logger - INFO - Closed Chrome driver after scraping Xbox games.
+2024-09-27 20:02:40,705 - game_scraper_logger - INFO - Closed Chrome driver after scraping Xbox games.
+2024-09-27 20:02:40,705 - game_scraper_logger - INFO - Closed Chrome driver after scraping Xbox games.
+2024-10-09 09:22:39,551 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-10-09 09:22:39,551 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-10-09 09:22:39,551 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-10-09 09:22:39,551 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-10-09 09:22:39,551 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-10-09 09:22:39,551 - game_scraper_logger - INFO - Starting the scraping and updating process.
+2024-10-09 09:22:39,559 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-10-09 09:22:39,559 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-10-09 09:22:39,559 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-10-09 09:22:39,559 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-10-09 09:22:39,559 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-10-09 09:22:39,559 - game_scraper_logger - INFO - Starting database to JSON conversion.
+2024-10-09 09:22:39,571 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-10-09 09:22:39,571 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-10-09 09:22:39,571 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-10-09 09:22:39,571 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-10-09 09:22:39,571 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-10-09 09:22:39,571 - game_scraper_logger - INFO - JSON file created at: C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee\games.json
+2024-10-09 09:22:39,577 - game_scraper_logger - INFO - Process completed successfully.
+2024-10-09 09:22:39,577 - game_scraper_logger - INFO - Process completed successfully.
+2024-10-09 09:22:39,577 - game_scraper_logger - INFO - Process completed successfully.
+2024-10-09 09:22:39,577 - game_scraper_logger - INFO - Process completed successfully.
+2024-10-09 09:22:39,577 - game_scraper_logger - INFO - Process completed successfully.
+2024-10-09 09:22:39,577 - game_scraper_logger - INFO - Process completed successfully.
