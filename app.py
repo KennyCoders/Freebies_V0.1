@@ -111,14 +111,14 @@ def main():
     logger.info('Starting the scraping and updating process.')
     print('Starting the scraping and updating process.')  # Added print statement
 
-    # scrape_games()
+    scrape_games()
 
     try:
         # Convert the DB to JSON
         json_file_path = convert_db_to_json()
 
         # Push the JSON to GitHub
-        # push_json_to_github(json_file_path)
+        push_json_to_github(json_file_path)
 
         logger.info('Process completed successfully.')
         print('Process completed successfully.')  # Added print statement
