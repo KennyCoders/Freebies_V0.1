@@ -14,11 +14,10 @@ from logger import Logger
 logger = Logger().get_logger()
 
 # Path to your folders
-SCRAPER_FOLDER = r"C:\Users\shahartz\PycharmProjects\Freebees_Versions\FreeGamesWebsiteDatabase-Copy(code)"
-WEBSITE_FOLDER = r"C:\Users\shahartz\PycharmProjects\Freebees_Versions\Freebee"
+SCRAPER_FOLDER = os.getenv("SCRAPER_FOLDER")
+WEBSITE_FOLDER = os.getenv("WEBSITE_FOLDER")
+DB_PATH = os.getenv("DB_PATH")
 JSON_FILE = "games.json"  # Name of the JSON file to be pushed
-DB_PATH = r"C:\Users\shahartz\PycharmProjects\Freebees_Versions\FreeGamesWebsiteDatabase-Copy(code)\database\games.db"
-
 # ... (other functions remain the same)
 
 def convert_db_to_json():
