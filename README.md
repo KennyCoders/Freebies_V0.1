@@ -1,4 +1,4 @@
-Project Description:
+**Project Description**:
 This repository contains the backend of an autonomous website designed to aggregate and present new game information seamlessly(Sony,Epic, Amazon and Microsoft). 
 The backend system is fully automated, operating on a weekly schedule without manual intervention.
 
