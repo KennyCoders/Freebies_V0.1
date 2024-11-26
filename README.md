@@ -11,3 +11,5 @@ The backend system is fully automated and scheduled, from initialization to disp
 - This backend serves as the engine for the FreeBee website, ensuring it remains up-to-date with the latest games and their gameplay content.
 - Providing users with a streamlined and engaging browsing experience.
 - The Website itself can be found at the 'FreeBee' depository (Front end) 
+
+https://kennycoders.github.io/FreeBee/
